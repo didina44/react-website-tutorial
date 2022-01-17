@@ -1,4 +1,3 @@
-joi 18.30 24 ian 15.00 andrada ilisan
 
 
 +++# Getting Started with Create React App
